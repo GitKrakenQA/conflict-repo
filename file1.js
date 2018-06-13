@@ -1,10 +1,12 @@
-1) A
-2) B
-3) C
-4) D
-5) E
-6) F
-7) G
-8) H
+1) Animals
+2) Bee
+3) Cat
+4) Dog
+5) Elephant
+6) Flamingo
+7) Giraffe
+8) Hippo
 9) I
 10) J
+11)
+12)
